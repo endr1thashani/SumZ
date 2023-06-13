@@ -1,4 +1,4 @@
-This project is created using Vite And React.
+This app is created using Vite, React and TailwindCSS.
 
 #Sumz is a Article Summarization App with OpenAI GPT-4 to Simplify your reading with an open-source article summarizer that turns long articles into clear summaries
 
